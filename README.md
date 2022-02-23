@@ -5,8 +5,13 @@ El diagrama de entidad relación que se va a utilizar para esa base de datos ser
 
 ![Diagrama entidad relacion - area](https://user-images.githubusercontent.com/94582879/155425189-9a7f4d4d-ca87-468b-a20f-f8a3036da70f.jpg)
 
-Luego se procede a presentar un mockup de lo que seria un posible dashboard.
+Luego se procede a presentar un mockup de lo que seria las ubicaciones y una posible forma del Dashboard final
 ![01](https://user-images.githubusercontent.com/94582879/155424966-27e52af8-d74f-44d8-8ec9-c4fecbd06811.jpg)
 ![02](https://user-images.githubusercontent.com/94582879/155424977-14bb8faa-647f-41e9-8cba-a14243dcaafb.jpg)
 ![03](https://user-images.githubusercontent.com/94582879/155424979-ac0da991-1ad9-4410-b7d3-43e3ab34f609.jpg)
 
+Al finalizar el trabajo queda un Dashboard con esta presentación.
+
+
+![01](https://user-images.githubusercontent.com/94582879/155427005-b3996fbb-9e73-490f-a712-dcd3519931d7.jpg)
+![02](https://user-images.githubusercontent.com/94582879/155427007-f2b1eea0-8747-4cde-b809-26625758b4d1.jpg)
