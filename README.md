@@ -10,7 +10,7 @@ Luego se procede a presentar un mockup de lo que seria las ubicaciones y una pos
 ![02](https://user-images.githubusercontent.com/94582879/155424977-14bb8faa-647f-41e9-8cba-a14243dcaafb.jpg)
 ![03](https://user-images.githubusercontent.com/94582879/155424979-ac0da991-1ad9-4410-b7d3-43e3ab34f609.jpg)
 
-Al finalizar el trabajo queda un Dashboard con esta presentación.
+Luego de aplicar una portada, botones, nueva paleta de colores y medidas nuevas, el Dashboard se preseenta de la siguiente manera.
 
 
 ![01](https://user-images.githubusercontent.com/94582879/155427005-b3996fbb-9e73-490f-a712-dcd3519931d7.jpg)
