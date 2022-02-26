@@ -15,7 +15,7 @@ Luego se procede a presentar un mockup de lo que seria las ubicaciones y una pos
 ![03](https://user-images.githubusercontent.com/94582879/155424979-ac0da991-1ad9-4410-b7d3-43e3ab34f609.jpg)
 
 
-Luego de aplicar todos los procesos a los datos, agregar una portada, botones, nueva paleta de colores y medidas nuevas, el queda con un diseño definitivo que se presenta de la siguiente manera.
+Luego de aplicar todos los procesos a los datos, agregar una portada, botones, nueva paleta de colores y medidas nuevas, el trabajo queda con un diseño definitivo que se presenta de la siguiente manera.
 
 
 ![01](https://user-images.githubusercontent.com/94582879/155427005-b3996fbb-9e73-490f-a712-dcd3519931d7.jpg)
