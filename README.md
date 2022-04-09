@@ -22,3 +22,5 @@ Luego de aplicar todos los procesos a los datos, agregar una portada, botones, n
 ![02](https://user-images.githubusercontent.com/94582879/155427007-f2b1eea0-8747-4cde-b809-26625758b4d1.jpg)
 
 En la carpeta "Proyecto Final" se puede ver el trabajo ya finalizado y entregado.
+
+![Certificado](https://user-images.githubusercontent.com/94582879/162590683-6f8bd705-6021-406f-99aa-add2293efa4f.png)
